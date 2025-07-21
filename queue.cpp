@@ -84,6 +84,7 @@ int main(){
     cout<<q.top()<<endl;
     q.pop();
     cout<<q.top()<<endl;
+    cout<<endl;
 
     q.push(10);
     cout<<q.top()<<endl;
